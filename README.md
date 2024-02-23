@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanMCole
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning swift?
+- 🌱 I’m currently learning game development with the Unreal engine
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ...
 
